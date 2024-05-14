@@ -11,3 +11,7 @@ explain how to something
 ## static-analysis
 * guide to analyze code
 * cppcheck
+
+## bash
+* how to write bash
+* bash with argument
